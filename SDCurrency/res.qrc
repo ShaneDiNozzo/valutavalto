@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Icon">
+    <file>emblem_money.ico</file>
+    <file>money.ico</file>
+  </qresource>
+</RCC>
