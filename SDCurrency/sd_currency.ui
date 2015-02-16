@@ -138,7 +138,7 @@
        </font>
       </property>
       <property name="text">
-       <string>400 EUR</string>
+       <string/>
       </property>
       <property name="alignment">
        <set>Qt::AlignCenter</set>
@@ -182,7 +182,7 @@
        </font>
       </property>
       <property name="text">
-       <string>Created by Shane DiNozzo | Powered by Mito API</string>
+       <string>Created by Shane DiNozzo | Powered by jsonrates.com</string>
       </property>
       <property name="alignment">
        <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
